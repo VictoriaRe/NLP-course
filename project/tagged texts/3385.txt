@@ -1,0 +1,6 @@
+6	30	Food	0
+6	30	Service	0
+9	12,21	Food	0
+9	21	Service	0
+10	5	Food	1
+16	17	Food	1

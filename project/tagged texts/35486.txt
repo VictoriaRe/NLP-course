@@ -1,0 +1,4 @@
+3	1	Food	0
+6	6	Food	0
+14	15	Food	1
+14	15	Service	1

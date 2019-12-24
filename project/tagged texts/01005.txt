@@ -1,0 +1,4 @@
+3	47	Food	1
+4	4	Service	0
+4	279,397	Food	1
+4	404	Food	0

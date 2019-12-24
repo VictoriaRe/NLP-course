@@ -1,0 +1,5 @@
+1	2	Food	0
+6	11	Food	1
+7	6	Food	0
+11	7	Food	0
+12	7	Food	1

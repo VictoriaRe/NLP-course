@@ -1,0 +1,5 @@
+3	5,10	Food	1
+4	2	Food	0
+8	4	Food	1
+10	2	Food	1
+17	24	Food	1
