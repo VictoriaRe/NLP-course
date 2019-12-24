@@ -1,4 +1,5 @@
 5	10	Food	0
+6	14	Food	1
 8	13	Food	0
 9	15	Food	0
 11	1	Food	1
